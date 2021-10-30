@@ -1,0 +1,24 @@
+head {
+    text-align: right;
+    font-size: 50px;
+}
+
+body {
+    background: chocolate;
+    text-align: center;
+
+    padding-right: 200px;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+}
+
+img {
+    width: 350;
+    text-align: center;
+    align-items: center;
+}
+
+
